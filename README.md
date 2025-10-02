@@ -5,7 +5,7 @@ This is a solution to the [Digital Bank landing page challenge on Frontend Mento
 
 ## 🔗 Links 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/-pixel-perfect-fluid-landing-page-and-395400-accessibility-S0TnVjsxuB)
-- Live Site URL: [Digital Bank landing page](https://ruthlesscalm.github.io/frontend-mentor-projects/digitalbank-landing-page/)
+- Live Site URL: [Digital Bank landing page](https://ruthlesscalm.github.io/fm-digitalbank-landing-page/)
 
 ## 🔍 Table of contents
 
@@ -95,5 +95,5 @@ Pull req are welcome. For major changes, open an issue first.
 
 ## 📄 License
 
-This project is licensed under the [MIT License](../LICENSE).  
-You're free to use, modify, and distribute with credit to **Ruthless Calm**.
+This project is licensed under the [MIT License](./LICENSE).  
+You're free to use, modify, and distribute with credit to **Pavan Gowda S R**.
