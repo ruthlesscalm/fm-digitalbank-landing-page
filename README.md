@@ -1,4 +1,4 @@
-# 🚀 Frontend Mentor - Bento Grid
+# 🚀 Frontend Mentor - Digital Landing Page
 "Digital Bank landing page made with HTML, CSS and JS"
 
 This is a solution to the [Digital Bank landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/digital-bank-landing-page-WaUhkoDN).
